@@ -168,12 +168,14 @@ class MayoClinicCrawler:
             yaml.dump(data, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
         print(f"Data exported to {output_path}")
 
-crawler = MayoClinicCrawler()
-data = crawler.crawl("/diseases-conditions/viral-hemorrhagic-fevers/symptoms-causes/syc-20351260?p=1")
-print(data)
+if __name__ == "__main__":
+    # Example usage for testing a single page
+    crawler = MayoClinicCrawler()
+    data = crawler.crawl("/diseases-conditions/viral-hemorrhagic-fevers/symptoms-causes/syc-20351260?p=1")
+    print(data)
 
-# Export to YAML
-crawler.export_to_yaml(data, "viral-hemorrhagic-fevers.yaml")
+    # Export to YAML
+    crawler.export_to_yaml(data, "viral-hemorrhagic-fevers.yaml")
 
-# Export to Markdown for RAG
-crawler.export_to_markdown(data, "viral-hemorrhagic-fevers.md")
+    # Export to Markdown for RAG
+    crawler.export_to_markdown(data, "viral-hemorrhagic-fevers.md")

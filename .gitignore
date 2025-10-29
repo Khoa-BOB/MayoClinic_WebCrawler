@@ -1,0 +1,31 @@
+# Ignore build and dependency folders
+/node_modules/
+__pycache__/
+dist/
+build/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled code
+*.pyc
+*.class
+*.o
+*.exe
+
+# Ignore log or temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+mayo_clinic_data/
