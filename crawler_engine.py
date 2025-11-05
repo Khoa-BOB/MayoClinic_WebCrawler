@@ -78,12 +78,12 @@ class PoliteCrawlerEngine:
                         '?letter=' not in href):
 
                         disease_name = link.get_text(strip=True)
+                        print(disease_name)
                         # Convert relative URLs to absolute
                         if href.startswith('/'):
                             href = urljoin(self.base_url, href)
 
                         all_diseases.append((disease_name, href))
-
                 # Be polite - wait between requests
                 time.sleep(self.delay)
 
