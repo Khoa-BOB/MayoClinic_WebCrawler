@@ -27,3 +27,8 @@ Thumbs.db
 .vscode/
 .idea/
 *.sublime-workspace
+
+drug_supplement_data/
+mayo_clinic_data/
+symptom_data/
+.claude/
