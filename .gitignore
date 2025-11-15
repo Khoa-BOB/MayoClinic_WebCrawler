@@ -32,3 +32,4 @@ drug_supplement_data/
 mayo_clinic_data/
 symptom_data/
 .claude/
+run_crawlers.sbatch
