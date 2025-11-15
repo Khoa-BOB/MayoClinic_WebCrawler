@@ -27,7 +27,7 @@ set -o pipefail
 # Configuration
 MODE="${MODE:-all}"
 DELAY="${DELAY:-2.0}"
-
+ENV_NAME="mayo_env"
 # Create logs directory
 mkdir -p logs
 
@@ -48,9 +48,13 @@ echo "Start time: $(date)"
 echo "================================="
 echo
 
-# Load modules (adjust for your HPC)
-# module load python/3.9
-# source /path/to/venv/bin/activate
+# Load modules and activate environment
+source ~/.bashrc
+source "$(conda info --base)/etc/profile.d/conda.sh"
+
+echo "Activating environment '$ENV_NAME'"
+conda activate $ENV_NAME
+echo "Using conda env: $CONDA_DEFAULT_ENV"
 
 # Run the appropriate crawler
 case ${CRAWLER_TYPE} in
