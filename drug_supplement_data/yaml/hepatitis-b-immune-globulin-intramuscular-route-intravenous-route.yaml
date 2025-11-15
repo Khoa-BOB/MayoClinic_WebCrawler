@@ -1,0 +1,364 @@
+title: Hepatitis b immune globulin (intramuscular route, intravenous route)
+sections:
+- heading: Brand Name
+  level: 2
+  content: []
+  subsections:
+  - heading: US Brand Name
+    level: 3
+    content:
+    - type: paragraph
+      text: Bayhep B
+    - type: paragraph
+      text: HepaGam B
+    - type: paragraph
+      text: HyperHEP B
+    - type: paragraph
+      text: Nabi-HB
+    - type: paragraph
+      text: Nabi-HB NovaPlus
+    subsections: []
+- heading: Description
+  level: 2
+  content:
+  - type: paragraph
+    text: Hepatitis B immune globulin (Human) injection is used to prevent hepatitis
+      B from occurring again in HBsAg-positive liver transplant patients who have
+      had liver transplants. This medicine also helps keep you from getting sick if
+      you have been exposed to hepatitis B virus.
+  - type: paragraph
+    text: 'Hepatitis B immune globulin (Human) injection may be used for the following
+      patients:'
+  - type: list
+    ordered: false
+    items:
+    - Sexual partners of persons with hepatitis B.
+    - Persons who may be exposed to the virus by means of blood, blood products, or
+      human bites, such as health care workers, employees in medical facilities, patients
+      and staff of live-in facilities and day-care programs for the developmentally
+      disabled, morticians and embalmers, police and fire department personnel, and
+      military personnel.
+    - Those who have household exposure to persons with acute hepatitis B and babies
+      less than 12 months old whose caregiver tests positive for hepatitis B.
+    - Babies born to mothers who test positive for hepatitis B.
+  - type: paragraph
+    text: This medicine is to be administered only by or under the supervision of
+      your doctor.
+  - type: paragraph
+    text: 'This product is available in the following dosage forms:'
+  - type: list
+    ordered: false
+    items:
+    - Solution
+  subsections: []
+- heading: Before Using
+  level: 2
+  content:
+  - type: paragraph
+    text: 'In deciding to use a medicine, the risks of taking the medicine must be
+      weighed against the good it will do. This is a decision you and your doctor
+      will make. For this medicine, the following should be considered:'
+  subsections:
+  - heading: Allergies
+    level: 3
+    content:
+    - type: paragraph
+      text: Tell your doctor if you have ever had any unusual or allergic reaction
+        to this medicine or any other medicines. Also tell your health care professional
+        if you have any other types of allergies, such as to foods, dyes, preservatives,
+        or animals. For non-prescription products, read the label or package ingredients
+        carefully.
+    subsections: []
+  - heading: Pediatric
+    level: 3
+    content:
+    - type: paragraph
+      text: Appropriate studies have not been performed on the relationship of age
+        to the effects of hepatitis B immune globulin injection in the pediatric population.
+        However, safety and efficacy have been established in children who are receiving
+        similar medicines for prevention of hepatitis B infection after exposure to
+        hepatitis B virus .
+    subsections: []
+  - heading: Geriatric
+    level: 3
+    content:
+    - type: paragraph
+      text: Appropriate studies performed to date have not demonstrated geriatric-specific
+        problems that would limit the usefulness of hepatitis B immune globulin injection
+        in the elderly. However, elderly patients are more likely to have age-related
+        kidney, liver, or heart problems, which may require caution and an adjustment
+        in the dose for patients receiving hepatitis B immune globulin injection.
+    subsections: []
+  - heading: Breastfeeding
+    level: 3
+    content:
+    - type: paragraph
+      text: There are no adequate studies in women for determining infant risk when
+        using this medication during breastfeeding. Weigh the potential benefits against
+        the potential risks before taking this medication while breastfeeding.
+    subsections: []
+  - heading: Drug Interactions
+    level: 3
+    content:
+    - type: paragraph
+      text: Although certain medicines should not be used together at all, in other
+        cases two different medicines may be used together even if an interaction
+        might occur. In these cases, your doctor may want to change the dose, or other
+        precautions may be necessary. When you are receiving this medicine, it is
+        especially important that your healthcare professional know if you are taking
+        any of the medicines listed below. The following interactions have been selected
+        on the basis of their potential significance and are not necessarily all-inclusive.
+    - type: paragraph
+      text: Using this medicine with any of the following medicines may cause an increased
+        risk of certain side effects, but using both drugs may be the best treatment
+        for you. If both medicines are prescribed together, your doctor may change
+        the dose or how often you use one or both of the medicines.
+    - type: list
+      ordered: false
+      items:
+      - Adenovirus Vaccine Type 4, Live
+      - Adenovirus Vaccine Type 7, Live
+      - Dengue Tetravalent Vaccine, Live
+      - Influenza Virus Vaccine, Live
+      - Measles Virus Vaccine, Live
+      - Mumps Virus Vaccine, Live
+      - Poliovirus Vaccine, Live
+      - Rotavirus Vaccine, Live
+      - Rubella Virus Vaccine, Live
+      - Smallpox Monkeypox Vaccine
+      - Varicella Virus Vaccine, Live
+      - Yellow Fever Vaccine
+      - Zoster Vaccine, Live
+    subsections: []
+  - heading: Other Interactions
+    level: 3
+    content:
+    - type: paragraph
+      text: Certain medicines should not be used at or around the time of eating food
+        or eating certain types of food since interactions may occur.  Using alcohol
+        or tobacco with certain medicines may also cause interactions to occur.  Discuss
+        with your healthcare professional the use of your medicine with food, alcohol,
+        or tobacco.
+    subsections: []
+  - heading: Other Medical Problems
+    level: 3
+    content:
+    - type: paragraph
+      text: 'The presence of other medical problems may affect the use of this medicine.
+        Make sure you tell your doctor if you have any other medical problems, especially:'
+    - type: list
+      ordered: false
+      items:
+      - Allergy (severe) to human globulin, history of or
+      - Immunoglobulin (IgA) deficiency—Should not be given to patients with these
+        conditions.
+    - type: list
+      ordered: false
+      items:
+      - Atherosclerosis (hardening of the arteries), history of or
+      - Blood clotting problems, history of or
+      - Diabetes or
+      - Heart or blood vessel disease or
+      - Hyperviscosity (thick blood), known or suspected or
+      - Prolonged periods of immobilization—Use with caution. May cause side effects
+        to become worse.
+    - type: list
+      ordered: false
+      items:
+      - Blood clotting problems or
+      - Thrombocytopenia (low number of platelets), severe—Should not be given to
+        patients who are receiving this medicine for postexposure prophylaxis unless
+        the benefits outweigh the risks.
+    subsections: []
+- heading: Proper Use
+  level: 2
+  content:
+  - type: paragraph
+    text: A nurse or other trained health professional will give you this medicine
+      in a hospital. This medicine is given as a shot into a muscle or a vein.
+  - type: paragraph
+    text: If you are using this medicine for prevention of hepatitis B from occurring
+      again in patients who have had liver transplants , this medicine is given through
+      a needle placed in one of your veins.
+  - type: paragraph
+    text: If you are using this medicine for prevention of hepatitis B infection after
+      being exposed to hepatitis B virus , it should be given as a shot into one of
+      your muscles.
+  - type: paragraph
+    text: This medicine works best if you receive it soon after being exposed to hepatitis
+      B. If you had sexual contact with a person who has hepatitis B, you should receive
+      this medicine within 14 days. If you were exposed some other way, you should
+      receive this medicine within 24 hours of being exposed to hepatitis B.
+  - type: paragraph
+    text: You may need to have a second dose of medicine 1 month after the first dose.
+      Make sure you understand the schedule if you need to have a second dose.
+  - type: paragraph
+    text: This medicine may be given to a baby if the baby's mother has hepatitis
+      B. The baby is often given the medicine within 12 hours after birth. Ask your
+      doctor about the schedule if your baby needs this medicine.
+  - type: paragraph
+    text: Hepatitis B vaccine is often used in addition to hepatitis B immune globulin.
+      Make sure you understand if you also need the vaccine.
+  subsections: []
+- heading: Precautions
+  level: 2
+  content:
+  - type: paragraph
+    text: It is very important that your doctor check your progress at regular visits
+      for any problems that may be caused by this medicine. Blood tests may be needed
+      to check for unwanted effects.
+  - type: paragraph
+    text: Hepatitis B immune globulin injection may cause serious allergic reactions.
+      Tell your doctor right away if you have a rash; itching; swelling of the face,
+      tongue, and throat; trouble breathing; or chest pain after receiving the medicine.
+  - type: paragraph
+    text: If you are also using insulin or other medicine for diabetes, you will need
+      to be aware of the symptoms of hypoglycemia (confusion, irritability, double
+      or blurred vision, and in severe cases seizures or loss of consciousness) because
+      this medicine may affect the results of blood sugar tests. Let your doctor know
+      if you experience hypoglycemia on a regular basis while receiving this medicine.
+  - type: paragraph
+    text: This medicine is made from donated human blood. Some human blood products
+      have transmitted certain viruses to people who have received them. The risk
+      of getting a virus from medicines made from human blood has been greatly reduced
+      in recent years. This is the result of required testing of human donors for
+      certain viruses, and required testing of the medicine when it is made. Although
+      the risk is low, talk with your doctor if you have concerns.
+  - type: paragraph
+    text: This medicine may cause blood clots. This is more likely to occur if you
+      have a history of blood clotting problems, heart disease, or atherosclerosis
+      (hardening of the arteries), or must stay in bed for a long time because of
+      surgery or illness. Check with your doctor right away if you suddenly have chest
+      pain, shortness of breath, a severe headache, leg pain, or problems with vision,
+      speech, or walking.
+  - type: paragraph
+    text: Talk to your doctor before getting flu shots or other vaccines while receiving
+      or after receiving hepatitis B immune globulin. Some vaccines may not work as
+      well while you are using this medicine.
+  - type: paragraph
+    text: Make sure any doctor or dentist who treats you knows that you are using
+      this medicine. This medicine may affect the results of certain medical tests
+      (e.g., serological tests).
+  subsections: []
+- heading: Side Effects
+  level: 2
+  content:
+  - type: paragraph
+    text: Along with its needed effects, a medicine may cause some unwanted effects.
+      Although not all of these side effects may occur, if they do occur they may
+      need medical attention.
+  - type: paragraph
+    text: 'Check with your doctor or nurse immediately if any of the following side
+      effects occur:'
+  subsections:
+  - heading: Rare
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Blurred vision
+      - confusion
+      - dizziness, faintness, or lightheadedness when getting up suddenly from a lying
+        or sitting position
+      - sweating
+      - unusual tiredness or weakness
+    subsections: []
+  - heading: Incidence not known
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Chills
+      - cough
+      - difficult or labored breathing
+      - difficulty with swallowing
+      - dizziness
+      - fast heartbeat
+      - fever
+      - hives
+      - itching
+      - puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
+      - shortness of breath
+      - skin rash
+      - tightness in the chest
+      - wheezing
+    - type: paragraph
+      text: 'Some side effects may occur that usually do not need medical attention.
+        These side effects may go away during treatment as your body adjusts to the
+        medicine. Also, your health care professional may be able to tell you about
+        ways to prevent or reduce some of these side effects. Check with your health
+        care professional if any of the following side effects continue or are bothersome
+        or if you have any questions about them:'
+    subsections: []
+  - heading: More common
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Back pain
+      - general feeling of discomfort
+      - headache
+      - muscle aches or pain
+      - nausea
+      - pain at the injection site
+    subsections: []
+  - heading: Less common
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Abdominal or stomach cramping
+      - burning, heat, and redness at the injection site
+      - diarrhea
+      - feeling as if you are going to vomit
+      - joint pain
+    subsections: []
+  - heading: Incidence not known
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Bleeding, blistering, burning, coldness, discoloration of the skin, feeling
+        of pressure, hives, infection, inflammation, itching, lumps, numbness, pain,
+        rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling,
+        ulceration, or warmth at the injection site
+      - cold sweats
+      - feeling cold
+      - flu-like symptoms
+      - upper abdominal or stomach pain
+    - type: paragraph
+      text: Other side effects not listed may also occur in some patients. If you
+        notice any other effects, check with your healthcare professional.
+    - type: paragraph
+      text: Call your doctor for medical advice about side effects. You may report
+        side effects to the FDA at 1-800-FDA-1088.
+    - type: paragraph
+      text: 'Drug information provided by: Merative, Micromedex®'
+    - type: paragraph
+      text: 'Portions of this document last updated: February 01, 2025'
+    - type: paragraph
+      text: 'Copyright: © Merative US L.P. 1973, 2025. All rights reserved. Information
+        is for End User''s use only and may not be sold, redistributed or otherwise
+        used for commercial purposes.'
+    subsections: []
+- heading: Products & Services
+  level: 2
+  content:
+  - type: list
+    ordered: false
+    items:
+    - The Mayo Clinic Diet
+  - type: list
+    ordered: true
+    items:
+    - Drugs & Supplements
+    - Hepatitis b immune globulin (intramuscular route, intravenous route) - Side
+      effects & uses
+  - type: paragraph
+    text: DRG-20064160
+  subsections: []

@@ -1,0 +1,664 @@
+title: Fluconazole (oral route)
+sections:
+- heading: Brand Name
+  level: 2
+  content: []
+  subsections:
+  - heading: US Brand Name
+    level: 3
+    content:
+    - type: paragraph
+      text: Diflucan
+    subsections: []
+  - heading: Canadian Brand Name
+    level: 3
+    content:
+    - type: paragraph
+      text: CanesOral
+    subsections: []
+- heading: Description
+  level: 2
+  content:
+  - type: paragraph
+    text: Fluconazole is used to treat serious fungal or yeast infections, including
+      vaginal candidiasis, oropharyngeal candidiasis (thrush, oral thrush), esophageal
+      candidiasis (candida esophagitis), other candida infections (including urinary
+      tract infections, peritonitis [inflammation of the lining of the stomach], and
+      infections that may occur in different parts of the body), or fungal (cryptococcal)
+      meningitis. It is also used in children on life support called extracorporeal
+      membrane oxygenation (ECMO). This medicine works by killing the fungus or yeast,
+      or preventing its growth.
+  - type: paragraph
+    text: Fluconazole is also used to prevent candidiasis in patients having bone
+      marrow transplants who receive cancer or radiation treatment.
+  - type: paragraph
+    text: This medicine is available only with your doctor's prescription.
+  - type: paragraph
+    text: 'This product is available in the following dosage forms:'
+  - type: list
+    ordered: false
+    items:
+    - Tablet
+    - Powder for Suspension
+  subsections: []
+- heading: Before Using
+  level: 2
+  content:
+  - type: paragraph
+    text: 'In deciding to use a medicine, the risks of taking the medicine must be
+      weighed against the good it will do. This is a decision you and your doctor
+      will make. For this medicine, the following should be considered:'
+  subsections:
+  - heading: Allergies
+    level: 3
+    content:
+    - type: paragraph
+      text: Tell your doctor if you have ever had any unusual or allergic reaction
+        to this medicine or any other medicines. Also tell your health care professional
+        if you have any other types of allergies, such as to foods, dyes, preservatives,
+        or animals. For non-prescription products, read the label or package ingredients
+        carefully.
+    subsections: []
+  - heading: Pediatric
+    level: 3
+    content:
+    - type: paragraph
+      text: Appropriate studies performed to date have not demonstrated pediatric-specific
+        problems that would limit the usefulness of fluconazole for the treatment
+        of oropharyngeal candidiasis in children 6 months to 13 years of age, for
+        the treatment of esophageal candidiasis, other candida infections, or fungal
+        (cryptococcal) meningitis in children, and for children on ECMO . Safety and
+        efficacy have been established.
+    subsections: []
+  - heading: Geriatric
+    level: 3
+    content:
+    - type: paragraph
+      text: Appropriate studies performed to date have not demonstrated geriatric-specific
+        problems that would limit the usefulness of fluconazole in the elderly. However,
+        elderly patients are more likely to have age-related kidney problems, which
+        may require an adjustment in the dose for patients receiving fluconazole.
+    subsections: []
+  - heading: Breastfeeding
+    level: 3
+    content:
+    - type: paragraph
+      text: There are no adequate studies in women for determining infant risk when
+        using this medication during breastfeeding. Weigh the potential benefits against
+        the potential risks before taking this medication while breastfeeding.
+    subsections: []
+  - heading: Drug Interactions
+    level: 3
+    content:
+    - type: paragraph
+      text: Although certain medicines should not be used together at all, in other
+        cases two different medicines may be used together even if an interaction
+        might occur. In these cases, your doctor may want to change the dose, or other
+        precautions may be necessary. When you are taking this medicine, it is especially
+        important that your healthcare professional know if you are taking any of
+        the medicines listed below. The following interactions have been selected
+        on the basis of their potential significance and are not necessarily all-inclusive.
+    - type: paragraph
+      text: Using this medicine with any of the following medicines is not recommended.
+        Your doctor may decide not to treat you with this medication or change some
+        of the other medicines you take.
+    - type: list
+      ordered: false
+      items:
+      - Alfuzosin
+      - Amiodarone
+      - Aripiprazole
+      - Aripiprazole Lauroxil
+      - Artemether
+      - Astemizole
+      - Atazanavir
+      - Bedaquiline
+      - Bepridil
+      - Buprenorphine
+      - Ceritinib
+      - Cisapride
+      - Citalopram
+      - Clarithromycin
+      - Clozapine
+      - Crizotinib
+      - Dabrafenib
+      - Dasatinib
+      - Deuruxolitinib
+      - Dofetilide
+      - Domperidone
+      - Dordaviprone
+      - Dronedarone
+      - Encorafenib
+      - Entrectinib
+      - Erythromycin
+      - Escitalopram
+      - Etrasimod
+      - Flibanserin
+      - Gepotidacin
+      - Glasdegib
+      - Granisetron
+      - Halofantrine
+      - Haloperidol
+      - Iloperidone
+      - Itraconazole
+      - Ivabradine
+      - Ivosidenib
+      - Ketoconazole
+      - Lapatinib
+    - type: paragraph
+      text: Using this medicine with any of the following medicines is usually not
+        recommended, but may be required in some cases. If both medicines are prescribed
+        together, your doctor may change the dose or how often you use one or both
+        of the medicines.
+    - type: list
+      ordered: false
+      items:
+      - Abrocitinib
+      - Acalabrutinib
+      - Acenocoumarol
+      - Adagrasib
+      - Alfentanil
+      - Alprazolam
+      - Amisulpride
+      - Amitriptyline
+      - Amlodipine
+      - Anagrelide
+      - Anisindione
+      - Apixaban
+      - Apomorphine
+      - Aprepitant
+      - Aprindine
+      - Arsenic Trioxide
+      - Asenapine
+      - Atorvastatin
+      - Avanafil
+      - Avapritinib
+      - Avatrombopag
+      - Axitinib
+      - Azathioprine
+      - Azilsartan
+      - Azilsartan Medoxomil
+      - Azithromycin
+      - Belzutifan
+      - Benzhydrocodone
+      - Bosutinib
+      - Bretylium
+      - Brexpiprazole
+      - Brigatinib
+      - Budesonide
+      - Buserelin
+      - Buspirone
+      - Capivasertib
+      - Carbamazepine
+      - Cariprazine
+      - Carvedilol
+      - Celecoxib
+    - type: paragraph
+      text: Using this medicine with any of the following medicines may cause an increased
+        risk of certain side effects, but using both drugs may be the best treatment
+        for you. If both medicines are prescribed together, your doctor may change
+        the dose or how often you use one or both of the medicines.
+    - type: list
+      ordered: false
+      items:
+      - Atevirdine
+      - Cimetidine
+      - Clopidogrel
+      - Losartan
+      - Nicardipine
+      - Prednisone
+      - Ramelteon
+      - Rifapentine
+      - Rivaroxaban
+      - Tretinoin
+      - Trimetrexate
+    subsections: []
+  - heading: Other Interactions
+    level: 3
+    content:
+    - type: paragraph
+      text: Certain medicines should not be used at or around the time of eating food
+        or eating certain types of food since interactions may occur.  Using alcohol
+        or tobacco with certain medicines may also cause interactions to occur.  Discuss
+        with your healthcare professional the use of your medicine with food, alcohol,
+        or tobacco.
+    subsections: []
+  - heading: Other Medical Problems
+    level: 3
+    content:
+    - type: paragraph
+      text: 'The presence of other medical problems may affect the use of this medicine.
+        Make sure you tell your doctor if you have any other medical problems, especially:'
+    - type: list
+      ordered: false
+      items:
+      - Electrolyte problems (mineral imbalance) or
+      - Heart disease—Use with caution. These conditions may increase your risk of
+        having heart rhythm problems and make the effects of this medicine worse.
+    - type: list
+      ordered: false
+      items:
+      - Fructose malabsorption (rare hereditary problem) or
+      - Glucose-galactose malabsorption (rare hereditary problem) or
+      - Sucrase-isomaltase deficiency (rare hereditary problem)—Should not be used
+        in patients with these conditions. Oral liquid contains sucrose (table sugar).
+    - type: list
+      ordered: false
+      items:
+      - Heart rhythm problems (eg, QT prolongation) or
+      - Liver disease—Use with caution. May make these conditions worse.
+    - type: list
+      ordered: false
+      items:
+      - Kidney disease—Use with caution. The effects may be increased because of slower
+        removal of the medicine from the body.
+    subsections: []
+- heading: Proper Use
+  level: 2
+  content:
+  - type: paragraph
+    text: Take this medicine exactly as directed by your doctor . Do not take more
+      of it, do not take it more often, and do not take it for a longer time than
+      your doctor ordered. To do so may increase the chance of side effects.
+  - type: paragraph
+    text: This medicine should come with a patient information leaflet. Read and follow
+      these instructions carefully. Ask your doctor if you have any questions.
+  - type: paragraph
+    text: Keep using this medicine for the full treatment time , even if you feel
+      better after the first few doses. Your infection may not clear up if you stop
+      using the medicine too soon.
+  - type: paragraph
+    text: You may take this medicine with or without food.
+  - type: paragraph
+    text: Shake the oral liquid well before each use. Measure the medicine with a
+      marked measuring spoon, oral syringe, or medicine cup. The average household
+      teaspoon may not hold the right amount of liquid.
+  subsections:
+  - heading: Dosing
+    level: 3
+    content:
+    - type: paragraph
+      text: The dose of this medicine will be different for different patients. Follow
+        your doctor's orders or the directions on the label. The following information
+        includes only the average doses of this medicine. If your dose is different,
+        do not change it unless your doctor tells you to do so.
+    - type: paragraph
+      text: The amount of medicine that you take depends on the strength of the medicine.
+        Also, the number of doses you take each day, the time allowed between doses,
+        and the length of time you take the medicine depend on the medical problem
+        for which you are using the medicine.
+    - type: list
+      ordered: false
+      items:
+      - 'For oral dosage forms (suspension or tablets): For cryptococcal meningitis:
+        Adults—400 milligrams (mg) on the first day, followed by 200 mg once a day
+        for at least 10 to 12 weeks. Your doctor may adjust your dose as needed. Children
+        6 months to 13 years of age—Dose is based on body weight and must be determined
+        by your doctor. The dose is usually 12 milligrams (mg) per kilogram (kg) of
+        body weight on the first day, followed by 6 mg per kg of body weight once
+        a day, for at least 10 to 12 weeks. Children younger than 6 months of age—Use
+        and dose must be determined by your doctor. For esophageal candidiasis: Adults—200
+        milligrams (mg) on the first day, followed by 100 mg once a day for at least
+        3 weeks. Your doctor may increase your dose as needed. Children 6 months to
+        13 years of age—Dose is based on body weight and must be determined by your
+        doctor. The dose is usually 6 milligrams (mg) per kilogram (kg) of body weight
+        on the first day, followed by 3 mg per kg of body weight once a day, for at
+        least 3 weeks. Children younger than 6 months of age—Use and dose must be
+        determined by your doctor. For oropharyngeal candidiasis: Adults—200 milligrams
+        (mg) on the first day, followed by 100 mg once a day for at least 2 weeks.
+        Children 6 months to 13 years of age—Dose is based on body weight and must
+        be determined by your doctor. The dose is usually 6 milligrams (mg) per kilogram
+        (kg) of body weight on the first day, followed by 3 mg per kg of body weight
+        once a day, for at least 2 weeks. Children younger than 6 months of age—Use
+        and dose must be determined by your doctor. For other infections that may
+        occur in different parts of the body: Adults—Doses of up to 400 milligrams
+        (mg) per day. Children 3 months of age and older—Dose is based on body weight
+        and must be determined by your doctor. The dose is usually 25 milligrams (mg)
+        per kilogram (kg) of body weight on the first day, followed by 12 mg per kg
+        of body weight once a day. Children from birth to 3 months postnatal and 30
+        weeks gestational age and older—Dose is based on body weight and must be determined
+        by your doctor. The dose is usually 25 mg per kg of body weight on the first
+        day, followed by 12 mg per kg of body weight once a day, for at least 3 weeks.
+        Children from birth to 3 months postnatal and younger than 30 weeks gestational
+        age—Dose is based on body weight and must be determined by your doctor. The
+        dose is usually 25 mg per kg of body weight on the first day, followed by
+        9 mg per kg of body weight once a day, for at least 3 weeks. For prevention
+        of candidiasis during bone marrow transplantation: Adults—400 milligrams (mg)
+        once a day. Children—Use and dose must be determined by your doctor. For urinary
+        tract infections or peritonitis: Adults—50 to 200 milligrams (mg) per day.
+        Children—Use and dose must be determined by your doctor. For vaginal candidiasis:
+        Adults—150 milligrams (mg) once a day. Children—Use and dose must be determined
+        by your doctor.'
+    - type: list
+      ordered: false
+      items:
+      - 'For cryptococcal meningitis: Adults—400 milligrams (mg) on the first day,
+        followed by 200 mg once a day for at least 10 to 12 weeks. Your doctor may
+        adjust your dose as needed. Children 6 months to 13 years of age—Dose is based
+        on body weight and must be determined by your doctor. The dose is usually
+        12 milligrams (mg) per kilogram (kg) of body weight on the first day, followed
+        by 6 mg per kg of body weight once a day, for at least 10 to 12 weeks. Children
+        younger than 6 months of age—Use and dose must be determined by your doctor.'
+      - 'For esophageal candidiasis: Adults—200 milligrams (mg) on the first day,
+        followed by 100 mg once a day for at least 3 weeks. Your doctor may increase
+        your dose as needed. Children 6 months to 13 years of age—Dose is based on
+        body weight and must be determined by your doctor. The dose is usually 6 milligrams
+        (mg) per kilogram (kg) of body weight on the first day, followed by 3 mg per
+        kg of body weight once a day, for at least 3 weeks. Children younger than
+        6 months of age—Use and dose must be determined by your doctor.'
+      - 'For oropharyngeal candidiasis: Adults—200 milligrams (mg) on the first day,
+        followed by 100 mg once a day for at least 2 weeks. Children 6 months to 13
+        years of age—Dose is based on body weight and must be determined by your doctor.
+        The dose is usually 6 milligrams (mg) per kilogram (kg) of body weight on
+        the first day, followed by 3 mg per kg of body weight once a day, for at least
+        2 weeks. Children younger than 6 months of age—Use and dose must be determined
+        by your doctor.'
+      - 'For other infections that may occur in different parts of the body: Adults—Doses
+        of up to 400 milligrams (mg) per day. Children 3 months of age and older—Dose
+        is based on body weight and must be determined by your doctor. The dose is
+        usually 25 milligrams (mg) per kilogram (kg) of body weight on the first day,
+        followed by 12 mg per kg of body weight once a day. Children from birth to
+        3 months postnatal and 30 weeks gestational age and older—Dose is based on
+        body weight and must be determined by your doctor. The dose is usually 25
+        mg per kg of body weight on the first day, followed by 12 mg per kg of body
+        weight once a day, for at least 3 weeks. Children from birth to 3 months postnatal
+        and younger than 30 weeks gestational age—Dose is based on body weight and
+        must be determined by your doctor. The dose is usually 25 mg per kg of body
+        weight on the first day, followed by 9 mg per kg of body weight once a day,
+        for at least 3 weeks.'
+      - 'For prevention of candidiasis during bone marrow transplantation: Adults—400
+        milligrams (mg) once a day. Children—Use and dose must be determined by your
+        doctor.'
+      - 'For urinary tract infections or peritonitis: Adults—50 to 200 milligrams
+        (mg) per day. Children—Use and dose must be determined by your doctor.'
+      - 'For vaginal candidiasis: Adults—150 milligrams (mg) once a day. Children—Use
+        and dose must be determined by your doctor.'
+    - type: list
+      ordered: false
+      items:
+      - Adults—400 milligrams (mg) on the first day, followed by 200 mg once a day
+        for at least 10 to 12 weeks. Your doctor may adjust your dose as needed.
+      - Children 6 months to 13 years of age—Dose is based on body weight and must
+        be determined by your doctor. The dose is usually 12 milligrams (mg) per kilogram
+        (kg) of body weight on the first day, followed by 6 mg per kg of body weight
+        once a day, for at least 10 to 12 weeks.
+      - Children younger than 6 months of age—Use and dose must be determined by your
+        doctor.
+    - type: list
+      ordered: false
+      items:
+      - Adults—200 milligrams (mg) on the first day, followed by 100 mg once a day
+        for at least 3 weeks. Your doctor may increase your dose as needed.
+      - Children 6 months to 13 years of age—Dose is based on body weight and must
+        be determined by your doctor. The dose is usually 6 milligrams (mg) per kilogram
+        (kg) of body weight on the first day, followed by 3 mg per kg of body weight
+        once a day, for at least 3 weeks.
+      - Children younger than 6 months of age—Use and dose must be determined by your
+        doctor.
+    - type: list
+      ordered: false
+      items:
+      - Adults—200 milligrams (mg) on the first day, followed by 100 mg once a day
+        for at least 2 weeks.
+      - Children 6 months to 13 years of age—Dose is based on body weight and must
+        be determined by your doctor. The dose is usually 6 milligrams (mg) per kilogram
+        (kg) of body weight on the first day, followed by 3 mg per kg of body weight
+        once a day, for at least 2 weeks.
+      - Children younger than 6 months of age—Use and dose must be determined by your
+        doctor.
+    - type: list
+      ordered: false
+      items:
+      - Adults—Doses of up to 400 milligrams (mg) per day.
+      - Children 3 months of age and older—Dose is based on body weight and must be
+        determined by your doctor. The dose is usually 25 milligrams (mg) per kilogram
+        (kg) of body weight on the first day, followed by 12 mg per kg of body weight
+        once a day.
+      - Children from birth to 3 months postnatal and 30 weeks gestational age and
+        older—Dose is based on body weight and must be determined by your doctor.
+        The dose is usually 25 mg per kg of body weight on the first day, followed
+        by 12 mg per kg of body weight once a day, for at least 3 weeks.
+      - Children from birth to 3 months postnatal and younger than 30 weeks gestational
+        age—Dose is based on body weight and must be determined by your doctor. The
+        dose is usually 25 mg per kg of body weight on the first day, followed by
+        9 mg per kg of body weight once a day, for at least 3 weeks.
+    - type: list
+      ordered: false
+      items:
+      - Adults—400 milligrams (mg) once a day.
+      - Children—Use and dose must be determined by your doctor.
+    - type: list
+      ordered: false
+      items:
+      - Adults—50 to 200 milligrams (mg) per day.
+      - Children—Use and dose must be determined by your doctor.
+    - type: list
+      ordered: false
+      items:
+      - Adults—150 milligrams (mg) once a day.
+      - Children—Use and dose must be determined by your doctor.
+    subsections: []
+  - heading: Missed Dose
+    level: 3
+    content:
+    - type: paragraph
+      text: If you miss a dose of this medicine, take it as soon as possible. However,
+        if it is almost time for your next dose, skip the missed dose and go back
+        to your regular dosing schedule. Do not double doses.
+    subsections: []
+  - heading: Storage
+    level: 3
+    content:
+    - type: paragraph
+      text: Keep out of the reach of children.
+    - type: paragraph
+      text: Do not keep outdated medicine or medicine no longer needed.
+    - type: paragraph
+      text: Ask your healthcare professional how you should dispose of any medicine
+        you do not use.
+    - type: paragraph
+      text: Store the medicine in a closed container at room temperature, away from
+        heat, moisture, and direct light. Keep from freezing.
+    - type: paragraph
+      text: The mixed oral liquid should be kept in the refrigerator or at room temperature
+        and used within 14 days. Do not freeze.
+    subsections: []
+- heading: Precautions
+  level: 2
+  content:
+  - type: paragraph
+    text: It is very important that your doctor check your or your child's progress
+      at regular visits to make sure this medicine is working properly. Blood and
+      urine tests may be needed to check for unwanted effects.
+  - type: paragraph
+    text: If your or your child's symptoms do not improve, or if they become worse,
+      check with your doctor. Continue to take this medicine as directed.
+  - type: paragraph
+    text: You or your child should not use erythromycin (Ery-Tab®), pimozide (Orap®),
+      or quinidine (Cardioquin®) while using this medicine because of the risk of
+      unwanted side effects.
+  - type: paragraph
+    text: Using this medicine for a long time or using it too much while you are pregnant
+      (especially during the first trimester) can harm your unborn baby. Use an effective
+      form of birth control during treatment with this medicine and for at least 1
+      week after the last dose. If you think you have become pregnant while using
+      this medicine, tell your doctor right away.
+  - type: paragraph
+    text: This medicine may rarely cause serious liver problems. Check with your doctor
+      right away if you or your child have stomach pain or tenderness, clay-colored
+      stools, dark urine, decreased appetite, fever, headache, itching, loss of appetite,
+      nausea and vomiting, skin rash, swelling of the feet or lower legs, unusual
+      tiredness or weakness, or yellow eyes or skin.
+  - type: paragraph
+    text: This medicine may rarely cause a serious type of allergic reaction called
+      anaphylaxis, which can be life-threatening and requires immediate medical attention.
+      Call your doctor right away if you or your child have a rash, itching, hives,
+      hoarseness, trouble with breathing, trouble with swallowing, or any swelling
+      of your hands, face, or mouth while you are using this medicine.
+  - type: paragraph
+    text: Serious skin reactions can occur in certain people during treatment with
+      this medicine. Check with your doctor right away if you or your child start
+      having a skin rash, itching, or any other skin changes while using this medicine.
+  - type: paragraph
+    text: Contact your doctor right away if you have any changes to your heart rhythm.
+      You might feel dizzy or faint, or you might have a fast, pounding, or uneven
+      heartbeat. Make sure your doctor knows if you or anyone in your family has ever
+      had a heart rhythm problem including QT prolongation.
+  - type: paragraph
+    text: This medicine may cause adrenal gland problems. Check with your doctor right
+      away if you have darkening of the skin, diarrhea, dizziness, fainting, loss
+      of appetite, mental depression, nausea, skin rash, unusual tiredness or weakness,
+      or vomiting.
+  - type: paragraph
+    text: This medicine may cause some people to become dizzy, drowsy, or less alert
+      than they are normally. Do not drive or do anything else that could be dangerous
+      until you know how this medicine affects you .
+  - type: paragraph
+    text: Do not take other medicines unless they have been discussed with your doctor.
+      This includes prescription or nonprescription (over-the-counter [OTC]) medicines
+      and herbal or vitamin supplements.
+  subsections: []
+- heading: Side Effects
+  level: 2
+  content:
+  - type: paragraph
+    text: Along with its needed effects, a medicine may cause some unwanted effects.
+      Although not all of these side effects may occur, if they do occur they may
+      need medical attention.
+  - type: paragraph
+    text: 'Check with your doctor immediately if any of the following side effects
+      occur:'
+  subsections:
+  - heading: Rare
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Chest tightness
+      - chills
+      - clay-colored stools
+      - cough
+      - dark urine
+      - diarrhea
+      - difficulty with swallowing
+      - dizziness
+      - fast heartbeat
+      - fever
+      - headache
+      - hives, itching, or skin rash
+      - large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands,
+        legs, feet, or genitals
+      - light-colored stools
+      - loss of appetite
+      - nausea
+      - puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
+      - stomach pain, continuing
+      - unpleasant breath odor
+      - unusual tiredness or weakness
+      - upper right abdominal or stomach pain
+      - vomiting
+      - vomiting of blood
+      - yellow eyes and skin
+    subsections: []
+  - heading: Incidence not known
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Black, tarry stools
+      - blistering, peeling, or loosening of the skin
+      - chest pain or discomfort
+      - decreased urine
+      - dry mouth
+      - fainting
+      - hoarseness
+      - increased thirst
+      - irregular or slow heart rate
+      - joint or muscle pain
+      - loss of bladder control
+      - lower back or side pain
+      - mood changes
+      - muscle pain or cramps
+      - muscle spasm or jerking of the arms and legs
+      - numbness or tingling in the hands, feet, or lips
+      - painful or difficult urination
+      - pale skin
+      - red skin lesions, often with a purple center
+      - red, irritated eyes
+      - seizures
+      - sore throat
+      - sores, ulcers, or white spots in the mouth or on the lips
+      - sudden loss of consciousness
+      - swollen glands
+      - unusual bleeding or bruising
+    - type: paragraph
+      text: 'Get emergency help immediately if any of the following symptoms of overdose
+        occur:'
+    subsections: []
+  - heading: Symptoms of overdose
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Fearfulness, suspiciousness, or other mental changes
+      - seeing, hearing, or feeling things that are not there
+    - type: paragraph
+      text: 'Some side effects may occur that usually do not need medical attention.
+        These side effects may go away during treatment as your body adjusts to the
+        medicine. Also, your health care professional may be able to tell you about
+        ways to prevent or reduce some of these side effects. Check with your health
+        care professional if any of the following side effects continue or are bothersome
+        or if you have any questions about them:'
+    subsections: []
+  - heading: Less common
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Belching
+      - change in taste or bad, unusual, or unpleasant (after) taste
+      - heartburn
+      - indigestion
+      - stomach discomfort or upset
+    subsections: []
+  - heading: Incidence not known
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Hair loss or thinning of the hair
+    - type: paragraph
+      text: Other side effects not listed may also occur in some patients. If you
+        notice any other effects, check with your healthcare professional.
+    - type: paragraph
+      text: Call your doctor for medical advice about side effects. You may report
+        side effects to the FDA at 1-800-FDA-1088.
+    - type: paragraph
+      text: 'Drug information provided by: Merative, Micromedex®'
+    - type: paragraph
+      text: 'Portions of this document last updated: November 01, 2025'
+    - type: paragraph
+      text: 'Copyright: © Merative US L.P. 1973, 2025. All rights reserved. Information
+        is for End User''s use only and may not be sold, redistributed or otherwise
+        used for commercial purposes.'
+    subsections: []
+- heading: Products & Services
+  level: 2
+  content:
+  - type: list
+    ordered: false
+    items:
+    - The Mayo Clinic Diet
+  - type: list
+    ordered: true
+    items:
+    - Drugs & Supplements
+    - Fluconazole (oral route) - Side effects & dosage
+  - type: paragraph
+    text: DRG-20071428
+  subsections: []

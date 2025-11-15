@@ -31,17 +31,24 @@ class MayoClinicCrawler:
         # Extract title
         title = (soup.find("h1").get_text(" ", strip=True)
                  if soup.find("h1") else None)
-        
-        # Find content area
+
+        # Find content area - try different structures
         content = soup.find('div', class_='content')
-        if not content:
-            return {"title": title, "sections": []}
-        
-        # Get the information section
-        direct_children = content.find_all(recursive=False)
-        if len(direct_children) < 2:
-            return {"title": title, "sections": []}
-        information = direct_children[1]
+
+        if content:
+            # Original disease page structure
+            direct_children = content.find_all(recursive=False)
+            if len(direct_children) < 2:
+                return {"title": title, "sections": []}
+            information = direct_children[1]
+        else:
+            # Try drug/supplement page structure (article tag)
+            information = soup.find('article')
+            if not information:
+                # Try symptom page structure (main-content div)
+                information = soup.find('div', id='main-content')
+                if not information:
+                    return {"title": title, "sections": []}
 
         # Initialize structure
         root = {"title": title, "sections": []}

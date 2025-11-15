@@ -1,0 +1,43 @@
+# Anal pain
+
+Anal pain is pain in and around the anus or rectum, also called the perianal region. Anal pain is a common complaint. Although most causes of anal pain aren't serious, the pain itself can be severe because of the many nerve endings in the perianal region.
+
+Many conditions that cause anal pain also may cause rectal bleeding, which is usually more frightening than serious.
+
+The causes of anal pain usually can be easily diagnosed. Anal pain usually can be treated with nonprescription pain relievers and hot water soaks, also called sitz baths.
+
+### Seek immediate medical attention
+
+Have someone drive you to urgent care or the emergency room if you develop:
+
+- A large amount of rectal bleeding or rectal bleeding that won't stop, especially if it comes with lightheadedness, dizziness or feeling faint.
+- Anal pain that gets much worse, spreads or comes with fever, chills or anal discharge.
+
+### Schedule a doctor's visit
+
+Make an appointment with your health care team if your pain lasts more than a few days and self-care remedies aren't helping. Also make an appointment with your team if anal pain comes with a change in bowel habits or rectal bleeding.
+
+A hemorrhoid that develops quickly or is especially painful may have formed a blood clot inside, called a thrombosed hemorrhoid. Removing the clot within the first 48 hours often gives the most relief, so request a timely appointment with your health care team. The blood clot of a thrombosed hemorrhoid, although painful, can't break loose and travel. It won't cause any of the complications associated with blood clots that form in other parts of the body, such as stroke.
+
+See your health care team for rectal bleeding, especially if you're older than 40, to rule out rare but serious conditions such as colon cancer.
+
+### Self-care
+
+Depending on the cause of your anal pain, there are some measures you can try at home to get relief. They include:
+
+- Eating more fruits, vegetables and whole grains, and exercising daily.
+- Taking stool softeners, if needed, to help with bowel movements, reduce straining and ease pain.
+- Sitting in a tub of hot water up to your hips, known as a sitz bath, several times a day. This helps ease the pain of hemorrhoids, anal fissures or rectal muscle spasms.
+- Applying nonprescription hemorrhoid cream for hemorrhoids or hydrocortisone cream for anal fissures.
+- Taking a nonprescription pain reliever such as acetaminophen (Tylenol, others), aspirin or ibuprofen (Advil, Motrin IB, others).
+
+### Show References
+
+1. Anal pain. American Society of Colon and Rectal Surgeons. https://fascrs.org/patients/diseases-and-conditions/a-z/anal-pain. Accessed May 16, 2023.
+2. Feldman M, et al., eds. Anal diseases. In: Sleisenger and Fordtran's Gastrointestinal and Liver Disease: Pathophysiology, Diagnosis, Management. 11th ed. Elsevier; 2021. https://www.clinicalkey.com. Accessed May 16, 2023.
+3. Evaluation of anorectal disorders. Merck Manual Professional Version. https://www.merckmanuals.com/professional/gastrointestinal-disorders/anorectal-disorders/evaluation-of-anorectal-disorders. Accessed May 16, 2023.
+4. Understanding minor rectal bleeding. American Society for Gastrointestinal Endoscopy. https://www.asge.org/home/for-patients/patient-information/understanding-minor-rectal-bleeding. Accessed May 16, 2023.
+5. Medical review (expert opinion). Mayo Clinic. Oct. 3, 2021.
+6. Khanijow K, et al. Diagnostic pain: A case of pudendal neuralgia. Cureus. 2024; doi:10.7759/cureus.68096.
+
+Original article: https://www.mayoclinic.org/symptoms/anal-pain/basics/definition/sym-20050918

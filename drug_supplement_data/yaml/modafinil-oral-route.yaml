@@ -1,0 +1,497 @@
+title: Modafinil (oral route)
+sections:
+- heading: Brand Name
+  level: 2
+  content: []
+  subsections:
+  - heading: US Brand Name
+    level: 3
+    content:
+    - type: paragraph
+      text: Provigil
+    subsections: []
+- heading: Description
+  level: 2
+  content:
+  - type: paragraph
+    text: Modafinil is used to help people who have narcolepsy, obstructive sleep
+      apnea/hypopnea syndrome (OSAHS), or shift work sleep disorder (SWSD) to stay
+      awake during the day. Modafinil does not cure these conditions and will only
+      work as long as you continue to take it.
+  - type: paragraph
+    text: This medicine is available only with your doctor's prescription.
+  - type: paragraph
+    text: 'This product is available in the following dosage forms:'
+  - type: list
+    ordered: false
+    items:
+    - Tablet
+  subsections: []
+- heading: Before Using
+  level: 2
+  content:
+  - type: paragraph
+    text: 'In deciding to use a medicine, the risks of taking the medicine must be
+      weighed against the good it will do. This is a decision you and your doctor
+      will make. For this medicine, the following should be considered:'
+  subsections:
+  - heading: Allergies
+    level: 3
+    content:
+    - type: paragraph
+      text: Tell your doctor if you have ever had any unusual or allergic reaction
+        to this medicine or any other medicines. Also tell your health care professional
+        if you have any other types of allergies, such as to foods, dyes, preservatives,
+        or animals. For non-prescription products, read the label or package ingredients
+        carefully.
+    subsections: []
+  - heading: Pediatric
+    level: 3
+    content:
+    - type: paragraph
+      text: Appropriate studies have not been performed on the relationship of age
+        to the effects of modafinil in children younger than 17 years of age. Safety
+        and efficacy have not been established.
+    subsections: []
+  - heading: Geriatric
+    level: 3
+    content:
+    - type: paragraph
+      text: Although appropriate studies on the relationship of age to the effects
+        of modafinil have not been performed in the geriatric population, geriatric-specific
+        problems are not expected to limit the usefulness of modafinil in the elderly.
+        However, elderly patients may have a slower removal of this medicine from
+        the body, which may require an adjustment in the dose for patients receiving
+        modafinil.
+    subsections: []
+  - heading: Breastfeeding
+    level: 3
+    content:
+    - type: paragraph
+      text: There are no adequate studies in women for determining infant risk when
+        using this medication during breastfeeding. Weigh the potential benefits against
+        the potential risks before taking this medication while breastfeeding.
+    subsections: []
+  - heading: Drug Interactions
+    level: 3
+    content:
+    - type: paragraph
+      text: Although certain medicines should not be used together at all, in other
+        cases two different medicines may be used together even if an interaction
+        might occur. In these cases, your doctor may want to change the dose, or other
+        precautions may be necessary. When you are taking this medicine, it is especially
+        important that your healthcare professional know if you are taking any of
+        the medicines listed below. The following interactions have been selected
+        on the basis of their potential significance and are not necessarily all-inclusive.
+    - type: paragraph
+      text: Using this medicine with any of the following medicines is not recommended.
+        Your doctor may decide not to treat you with this medication or change some
+        of the other medicines you take.
+    - type: list
+      ordered: false
+      items:
+      - Isocarboxazid
+      - Lonafarnib
+      - Mavacamten
+      - Phenelzine
+      - Ranolazine
+    - type: paragraph
+      text: Using this medicine with any of the following medicines is usually not
+        recommended, but may be required in some cases. If both medicines are prescribed
+        together, your doctor may change the dose or how often you use one or both
+        of the medicines.
+    - type: list
+      ordered: false
+      items:
+      - Alfentanil
+      - Amiodarone
+      - Amlodipine
+      - Amphetamine
+      - Atogepant
+      - Atrasentan
+      - Avacopan
+      - Avapritinib
+      - Axitinib
+      - Bedaquiline
+      - Belzutifan
+      - Benzhydrocodone
+      - Brigatinib
+      - Buprenorphine
+      - Cabozantinib
+      - Capivasertib
+      - Capmatinib
+      - Cariprazine
+      - Citalopram
+      - Clarithromycin
+      - Clobazam
+      - Cobimetinib
+      - Codeine
+      - Crinecerfont
+      - Cyclosporine
+      - Daclatasvir
+      - Daridorexant
+      - Darunavir
+      - Defactinib
+      - Deflazacort
+      - Desogestrel
+      - Deutivacaftor
+      - Dextroamphetamine
+      - Dienogest
+      - Dihydrocodeine
+      - Dordaviprone
+      - Doxorubicin
+      - Doxorubicin Hydrochloride Liposome
+      - Dronedarone
+      - Drospirenone
+    - type: paragraph
+      text: Using this medicine with any of the following medicines may cause an increased
+        risk of certain side effects, but using both drugs may be the best treatment
+        for you. If both medicines are prescribed together, your doctor may change
+        the dose or how often you use one or both of the medicines.
+    - type: list
+      ordered: false
+      items:
+      - Clomipramine
+      - Clopidogrel
+      - Ospemifene
+      - Triazolam
+    subsections: []
+  - heading: Other Interactions
+    level: 3
+    content:
+    - type: paragraph
+      text: Certain medicines should not be used at or around the time of eating food
+        or eating certain types of food since interactions may occur.  Using alcohol
+        or tobacco with certain medicines may also cause interactions to occur.  Discuss
+        with your healthcare professional the use of your medicine with food, alcohol,
+        or tobacco.
+    subsections: []
+  - heading: Other Medical Problems
+    level: 3
+    content:
+    - type: paragraph
+      text: 'The presence of other medical problems may affect the use of this medicine.
+        Make sure you tell your doctor if you have any other medical problems, especially:'
+    - type: list
+      ordered: false
+      items:
+      - Alcohol abuse, history of or
+      - Drug abuse or dependence, history of—Dependence may be more likely to develop.
+    - type: list
+      ordered: false
+      items:
+      - Angina (severe chest pain), unstable or
+      - Heart attack, recent or
+      - Heart disease—Use with caution. It is not known how modafinil will affect
+        these conditions.
+    - type: list
+      ordered: false
+      items:
+      - Depression, history of or
+      - Hypertension (high blood pressure) or
+      - Mania, history of or
+      - Psychosis (mental illness), history of—Use with caution. May make these conditions
+        worse.
+    - type: list
+      ordered: false
+      items:
+      - Left ventricular hypertrophy (heart disease), history of or
+      - Mitral valve prolapse (heart disease) after receiving CNS stimulants—Use is
+        not recommended in patients with these conditions.
+    - type: list
+      ordered: false
+      items:
+      - Liver disease, severe—Use with caution. You may require a dose adjustment.
+        Talk with your doctor if you have concerns about this.
+    subsections: []
+- heading: Proper Use
+  level: 2
+  content:
+  - type: paragraph
+    text: Take this medicine only as directed by your doctor . Do not take more of
+      it, do not take it more often, and do not take it for a longer time than your
+      doctor ordered. If too much is taken, it may become habit-forming.
+  - type: paragraph
+    text: This medicine comes with a Medication Guide. It is very important that you
+      read and understand this information. Be sure to ask your doctor about anything
+      you do not understand.
+  - type: paragraph
+    text: This medicine does not take the place of getting enough sleep. It should
+      not be used for occasional sleepiness that has not been diagnosed as narcolepsy,
+      sleep apnea, or shift work sleep problems. Ask your doctor for advice about
+      good sleep habits.
+  - type: paragraph
+    text: If you have sleep apnea and use a continuous positive airway pressure (CPAP)
+      machine at night, continue using this machine with modafinil.
+  - type: paragraph
+    text: Take this medicine at the same time each day. Do not change the time of
+      day you take modafinil without talking first with your doctor.
+  - type: paragraph
+    text: You may take this medicine with or without food.
+  subsections:
+  - heading: Dosing
+    level: 3
+    content:
+    - type: paragraph
+      text: The dose of this medicine will be different for different patients. Follow
+        your doctor's orders or the directions on the label. The following information
+        includes only the average doses of this medicine. If your dose is different,
+        do not change it unless your doctor tells you to do so.
+    - type: paragraph
+      text: The amount of medicine that you take depends on the strength of the medicine.
+        Also, the number of doses you take each day, the time allowed between doses,
+        and the length of time you take the medicine depend on the medical problem
+        for which you are using the medicine.
+    - type: list
+      ordered: false
+      items:
+      - 'For oral dosage form (tablets): For narcolepsy or obstructive sleep apnea/hypopnea
+        syndrome: Adults and teenagers 17 years of age and older—200 milligrams (mg)
+        once a day, in the morning. Your doctor may increase your dose as needed.
+        Teenagers and children younger than 17 years of age—Use and dose must be determined
+        by your doctor. For shift work sleep disorder: Adults and teenagers 17 years
+        of age and older—200 milligrams (mg) one hour before you begin working. Teenagers
+        and children younger than 17 years of age—Use and dose must be determined
+        by your doctor.'
+    - type: list
+      ordered: false
+      items:
+      - 'For narcolepsy or obstructive sleep apnea/hypopnea syndrome: Adults and teenagers
+        17 years of age and older—200 milligrams (mg) once a day, in the morning.
+        Your doctor may increase your dose as needed. Teenagers and children younger
+        than 17 years of age—Use and dose must be determined by your doctor.'
+      - 'For shift work sleep disorder: Adults and teenagers 17 years of age and older—200
+        milligrams (mg) one hour before you begin working. Teenagers and children
+        younger than 17 years of age—Use and dose must be determined by your doctor.'
+    - type: list
+      ordered: false
+      items:
+      - Adults and teenagers 17 years of age and older—200 milligrams (mg) once a
+        day, in the morning. Your doctor may increase your dose as needed.
+      - Teenagers and children younger than 17 years of age—Use and dose must be determined
+        by your doctor.
+    - type: list
+      ordered: false
+      items:
+      - Adults and teenagers 17 years of age and older—200 milligrams (mg) one hour
+        before you begin working.
+      - Teenagers and children younger than 17 years of age—Use and dose must be determined
+        by your doctor.
+    subsections: []
+  - heading: Missed Dose
+    level: 3
+    content:
+    - type: paragraph
+      text: If you miss a dose of this medicine, skip the missed dose and go back
+        to your regular dosing schedule. Do not double doses.
+    - type: paragraph
+      text: If you miss a dose of modafinil and you remember it before 12:00 noon
+        the same day, take the missed dose as soon as possible.
+    subsections: []
+  - heading: Storage
+    level: 3
+    content:
+    - type: paragraph
+      text: Store the medicine in a closed container at room temperature, away from
+        heat, moisture, and direct light. Keep from freezing.
+    - type: paragraph
+      text: Keep out of the reach of children.
+    - type: paragraph
+      text: Do not keep outdated medicine or medicine no longer needed.
+    - type: paragraph
+      text: Ask your healthcare professional how you should dispose of any medicine
+        you do not use.
+    subsections: []
+- heading: Precautions
+  level: 2
+  content:
+  - type: paragraph
+    text: Your doctor should check your progress at regular visits to make sure that
+      this medicine is working properly. Your blood pressure may need to be checked
+      more often while taking this medicine.
+  - type: paragraph
+    text: It is important to tell your doctor if you become pregnant. Your doctor
+      may want you to join a pregnancy registry for patients taking this medicine.
+  - type: paragraph
+    text: Serious skin reactions can occur with this medicine. Stop using this medicine
+      and check with your doctor right away if you have blistering, peeling, or loosening
+      of the skin; red skin lesions; severe acne or skin rash; sores or ulcers on
+      the skin; or fever or chills while you are using this medicine.
+  - type: paragraph
+    text: This medicine may cause you to have a serious type of allergic reaction
+      called anaphylaxis. Anaphylaxis can be life-threatening and requires immediate
+      medical attention. Stop taking this medicine and call your doctor right away
+      if you have a skin rash; itching; hives; hoarseness; trouble breathing; trouble
+      swallowing; or any swelling of your hands, face, or mouth while you are using
+      this medicine.
+  - type: paragraph
+    text: 'This medicine may cause serious allergic reactions affecting multiple body
+      organs (e.g., heart, liver, or blood cells). Stop using this medicine and check
+      with your doctor right away if you have the following symptoms: chest pain or
+      discomfort, fever and chills, dark urine, headache, rash, stomach pain, unusual
+      tiredness, unusual bleeding or bruising, or yellow eyes or skin.'
+  - type: paragraph
+    text: If you think modafinil is not working properly after you have taken it for
+      a few weeks, do not increase the dose. Instead, check with your doctor.
+  - type: paragraph
+    text: If you are using a medicine for birth control (such as birth control pills,
+      implants, shots, patches, vaginal rings, or an IUD), it may not work properly
+      while you are taking modafinil. To keep from getting pregnant, use another form
+      of birth control while you are using this medicine and for one month after your
+      last dose. Other forms of birth control include condoms, diaphragms, or contraceptive
+      foams or jellies.
+  - type: paragraph
+    text: Modafinil may cause some people to feel dizzy, drowsy, have trouble thinking
+      or controlling movements, or trouble seeing clearly. Make sure you know how
+      you react to this medicine before you drive, use machines, or do other jobs
+      that require you to be alert, well-coordinated, or able to think or see well
+      .
+  - type: paragraph
+    text: 'Stop using this medicine and check with your doctor right away if you have
+      the following symptoms while taking the medicine: aggressive behavior, anxiety,
+      depression, hallucinations, mania, thoughts of suicide, or other mental problems.'
+  - type: paragraph
+    text: 'If you have been taking this medicine for a long time or in large doses
+      and you think you may have become mentally or physically dependent on it, check
+      with your doctor. Some signs of dependence on modafinil are:'
+  - type: list
+    ordered: false
+    items:
+    - a strong desire or need to continue taking the medicine.
+    - a need to increase the dose to receive the effects of the medicine.
+    - withdrawal side effects when you stop taking the medicine.
+  - type: paragraph
+    text: While you are taking this medicine, be careful to limit the amount of alcohol
+      that you drink.
+  - type: paragraph
+    text: If you have been taking this medicine in large doses or for a long time,
+      do not stop taking it without first checking with your doctor. Your doctor may
+      want you to gradually reduce the amount you are taking before stopping it completely.
+  - type: paragraph
+    text: Do not take other medicines unless they have been discussed with your doctor.
+      This includes prescription or nonprescription (over-the-counter [OTC]) medicines
+      and herbal or vitamin supplements.
+  subsections: []
+- heading: Side Effects
+  level: 2
+  content:
+  - type: paragraph
+    text: Along with its needed effects, a medicine may cause some unwanted effects.
+      Although not all of these side effects may occur, if they do occur they may
+      need medical attention.
+  - type: paragraph
+    text: 'Check with your doctor immediately if any of the following side effects
+      occur:'
+  subsections:
+  - heading: Less common
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Black, tarry stools
+      - blurred vision or other vision changes
+      - chest pain
+      - chills or fever
+      - clumsiness or unsteadiness
+      - confusion
+      - dizziness or fainting
+      - increased thirst and urination
+      - mental depression
+      - problems with memory
+      - rapidly changing moods
+      - shortness of breath
+      - sore throat
+      - trembling or shaking
+      - trouble in urinating
+      - uncontrolled movements of the face, mouth, or tongue
+      - unusual bleeding or bruising
+      - unusual tiredness or weakness
+    - type: paragraph
+      text: 'Get emergency help immediately if any of the following symptoms of overdose
+        occur:'
+    subsections: []
+  - heading: Symptoms of overdose
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Agitation or excitement
+      - fast or pounding heartbeat
+      - increased blood pressure
+      - trouble with sleeping
+    - type: paragraph
+      text: 'Some side effects may occur that usually do not need medical attention.
+        These side effects may go away during treatment as your body adjusts to the
+        medicine. Also, your health care professional may be able to tell you about
+        ways to prevent or reduce some of these side effects. Check with your health
+        care professional if any of the following side effects continue or are bothersome
+        or if you have any questions about them:'
+    subsections: []
+  - heading: More common
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Anxiety
+      - headache
+      - nausea
+      - nervousness
+    subsections: []
+  - heading: Less common
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Back pain
+      - belching
+      - decrease in appetite
+      - diarrhea
+      - difficulty having a bowel movement
+      - dryness of the mouth
+      - dryness of the skin
+      - feeling of constant movement of self or surroundings
+      - flushing or redness of the skin
+      - heartburn
+      - indigestion
+      - muscle stiffness
+      - sores, ulcers, or white spots on the lips or in the mouth
+      - sour stomach
+      - stomach discomfort upset or pain
+      - stuffy or runny nose
+      - swelling
+      - tingling, burning, or prickling sensations in the skin
+      - vomiting
+    - type: paragraph
+      text: Other side effects not listed may also occur in some patients. If you
+        notice any other effects, check with your healthcare professional.
+    - type: paragraph
+      text: Call your doctor for medical advice about side effects. You may report
+        side effects to the FDA at 1-800-FDA-1088.
+    - type: paragraph
+      text: 'Drug information provided by: Merative, Micromedex®'
+    - type: paragraph
+      text: 'Portions of this document last updated: November 01, 2025'
+    - type: paragraph
+      text: 'Copyright: © Merative US L.P. 1973, 2025. All rights reserved. Information
+        is for End User''s use only and may not be sold, redistributed or otherwise
+        used for commercial purposes.'
+    subsections: []
+- heading: Products & Services
+  level: 2
+  content:
+  - type: list
+    ordered: false
+    items:
+    - The Mayo Clinic Diet
+  - type: list
+    ordered: true
+    items:
+    - Drugs & Supplements
+    - Modafinil (oral route) - Side effects & dosage
+  - type: paragraph
+    text: DRG-20064870
+  subsections: []

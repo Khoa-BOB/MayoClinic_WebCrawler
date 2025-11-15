@@ -1,0 +1,358 @@
+title: Granisetron (intravenous route)
+sections:
+- heading: Brand Name
+  level: 2
+  content: []
+  subsections:
+  - heading: US Brand Name
+    level: 3
+    content:
+    - type: paragraph
+      text: Kytril
+    subsections: []
+- heading: Description
+  level: 2
+  content:
+  - type: paragraph
+    text: Granisetron injection is used to prevent nausea and vomiting that may occur
+      after treatment with cancer medicines (chemotherapy or radiation), including
+      high-dose cisplatin. This medicine is also used to prevent and treat nausea
+      and vomiting that may happen after surgery.
+  - type: paragraph
+    text: Granisetron is a selective 5-HT3 receptor antagonist. It works in the stomach
+      to block the signals to the brain that cause nausea and vomiting.
+  - type: paragraph
+    text: This medicine is to be given only by or under the immediate supervision
+      of your doctor.
+  - type: paragraph
+    text: 'This product is available in the following dosage forms:'
+  - type: list
+    ordered: false
+    items:
+    - Solution
+  subsections: []
+- heading: Before Using
+  level: 2
+  content:
+  - type: paragraph
+    text: 'In deciding to use a medicine, the risks of taking the medicine must be
+      weighed against the good it will do. This is a decision you and your doctor
+      will make. For this medicine, the following should be considered:'
+  subsections:
+  - heading: Allergies
+    level: 3
+    content:
+    - type: paragraph
+      text: Tell your doctor if you have ever had any unusual or allergic reaction
+        to this medicine or any other medicines. Also tell your health care professional
+        if you have any other types of allergies, such as to foods, dyes, preservatives,
+        or animals. For non-prescription products, read the label or package ingredients
+        carefully.
+    subsections: []
+  - heading: Pediatric
+    level: 3
+    content:
+    - type: paragraph
+      text: Appropriate studies performed to date have not demonstrated pediatric-specific
+        problems that would limit the usefulness of granisetron injection in children
+        with cancer. However, safety and efficacy have not been established in children
+        younger than 2 years of age.
+    - type: paragraph
+      text: Appropriate studies have not been performed on the relationship of age
+        to the effects granisetron injection for the prevention and treatment of nausea
+        and vomiting after surgery in the pediatric population. Safety and efficacy
+        have not been established.
+    subsections: []
+  - heading: Geriatric
+    level: 3
+    content:
+    - type: paragraph
+      text: Appropriate studies performed to date have not demonstrated geriatric-specific
+        problems that would limit the usefulness of granisetron injection in the elderly.
+    subsections: []
+  - heading: Breastfeeding
+    level: 3
+    content:
+    - type: paragraph
+      text: There are no adequate studies in women for determining infant risk when
+        using this medication during breastfeeding. Weigh the potential benefits against
+        the potential risks before taking this medication while breastfeeding.
+    subsections: []
+  - heading: Drug Interactions
+    level: 3
+    content:
+    - type: paragraph
+      text: Although certain medicines should not be used together at all, in other
+        cases two different medicines may be used together even if an interaction
+        might occur. In these cases, your doctor may want to change the dose, or other
+        precautions may be necessary. When you are receiving this medicine, it is
+        especially important that your healthcare professional know if you are taking
+        any of the medicines listed below. The following interactions have been selected
+        on the basis of their potential significance and are not necessarily all-inclusive.
+    - type: paragraph
+      text: Using this medicine with any of the following medicines is not recommended.
+        Your doctor may decide not to treat you with this medication or change some
+        of the other medicines you take.
+    - type: list
+      ordered: false
+      items:
+      - Apomorphine
+      - Bepridil
+      - Cisapride
+      - Dronedarone
+      - Fluconazole
+      - Levoketoconazole
+      - Mesoridazine
+      - Phenelzine
+      - Pimozide
+      - Piperaquine
+      - Saquinavir
+      - Sparfloxacin
+      - Terfenadine
+      - Thioridazine
+      - Ziprasidone
+    - type: paragraph
+      text: Using this medicine with any of the following medicines is usually not
+        recommended, but may be required in some cases. If both medicines are prescribed
+        together, your doctor may change the dose or how often you use one or both
+        of the medicines.
+    - type: list
+      ordered: false
+      items:
+      - Adagrasib
+      - Alfentanil
+      - Alfuzosin
+      - Almotriptan
+      - Amineptine
+      - Amiodarone
+      - Amisulpride
+      - Amitriptyline
+      - Amitriptylinoxide
+      - Amoxapine
+      - Amphetamine
+      - Anagrelide
+      - Anileridine
+      - Aripiprazole
+      - Aripiprazole Lauroxil
+      - Arsenic Trioxide
+      - Asenapine
+      - Astemizole
+      - Atazanavir
+      - Azithromycin
+      - Bedaquiline
+      - Benzhydrocodone
+      - Benzphetamine
+      - Brompheniramine
+      - Buprenorphine
+      - Buserelin
+      - Buspirone
+      - Butorphanol
+      - Carbamazepine
+      - Ceritinib
+      - Chloroquine
+      - Chlorpheniramine
+      - Chlorpromazine
+      - Ciprofloxacin
+      - Citalopram
+      - Clarithromycin
+      - Clofazimine
+      - Clomipramine
+      - Clothiapine
+      - Clozapine
+    subsections: []
+  - heading: Other Interactions
+    level: 3
+    content:
+    - type: paragraph
+      text: Certain medicines should not be used at or around the time of eating food
+        or eating certain types of food since interactions may occur.  Using alcohol
+        or tobacco with certain medicines may also cause interactions to occur.  Discuss
+        with your healthcare professional the use of your medicine with food, alcohol,
+        or tobacco.
+    subsections: []
+  - heading: Other Medical Problems
+    level: 3
+    content:
+    - type: paragraph
+      text: 'The presence of other medical problems may affect the use of this medicine.
+        Make sure you tell your doctor if you have any other medical problems, especially:'
+    - type: list
+      ordered: false
+      items:
+      - Allergy to selective 5-HT3 receptor antagonists (such as alosetron [Lotronex®],
+        dolasetron [Anzemet®], ondansetron [Zofran®], or palonosetron [Aloxi®])—Use
+        with caution. It is likely you will also be allergic to granisetron.
+    - type: list
+      ordered: false
+      items:
+      - Bowel blockage or
+      - Gastric distension (enlarged abdomen)—May cover up symptoms of these stomach
+        or bowel problems, especially in patients who had a recent abdominal or stomach
+        surgery.
+    - type: list
+      ordered: false
+      items:
+      - Electrolyte imbalance or
+      - Heart disease—May increase risk to have prolonged QT interval.
+    - type: list
+      ordered: false
+      items:
+      - Heart rhythm problems (e.g., arrhythmia, prolonged QT interval)—Use with caution.
+        May make this condition worse.
+    subsections: []
+- heading: Proper Use
+  level: 2
+  content:
+  - type: paragraph
+    text: A nurse or other trained health professional will give you or your child
+      this medicine in a hospital or cancer treatment center. This medicine is given
+      through a needle placed in one of your veins.
+  - type: paragraph
+    text: When this medicine is used to prevent nausea and vomiting caused by cancer
+      medicines (chemotherapy) , it is usually given 30 minutes before the start of
+      chemotherapy, and only on the day your cancer treatment is given.
+  - type: paragraph
+    text: When this medicine is used to prevent and treat nausea and vomiting caused
+      by surgery , it is usually given 30 seconds before anesthesia (medicine to put
+      you to sleep before surgery) or right after surgery if nausea and vomiting begin.
+  subsections: []
+- heading: Precautions
+  level: 2
+  content:
+  - type: paragraph
+    text: Check with your doctor if severe nausea and vomiting continue after leaving
+      the hospital or cancer treatment center.
+  - type: paragraph
+    text: This medicine may cause serious allergic reactions, including anaphylaxis.
+      Anaphylaxis can be life-threatening and requires immediate medical attention.
+      Call your doctor right away if you or your child have a rash; itching; dizziness
+      or lightheadedness; trouble breathing; trouble swallowing; or any swelling of
+      your hands, face, or mouth after receiving this medicine.
+  - type: paragraph
+    text: Check with your doctor right away if you or your child start to have pain
+      or swelling in your stomach area. These may be signs of a serious stomach or
+      bowel problem.
+  - type: paragraph
+    text: This medicine can cause changes in heart rhythms, such as a condition called
+      QT prolongation. It may change the way your heart beats and cause fainting or
+      serious side effects in some patients. Contact your doctor right away if you
+      or your child have any symptoms of heart rhythm problems, such as fast, pounding,
+      or uneven heartbeats.
+  - type: paragraph
+    text: This medicine contains benzyl alcohol which may cause serious reactions
+      to newborn, premature, or low-birthweight infants. Check with your doctor if
+      you are concerned.
+  - type: paragraph
+    text: Do not take other medicines unless they have been discussed with your doctor.
+      This includes prescription or nonprescription (over-the-counter [OTC]) medicines
+      and herbal or vitamin supplements.
+  subsections: []
+- heading: Side Effects
+  level: 2
+  content:
+  - type: paragraph
+    text: Along with its needed effects, a medicine may cause some unwanted effects.
+      Although not all of these side effects may occur, if they do occur they may
+      need medical attention.
+  - type: paragraph
+    text: 'Check with your doctor or nurse immediately if any of the following side
+      effects occur:'
+  subsections:
+  - heading: Less common
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Blurred vision
+      - fever
+      - nervousness
+      - pounding in the ears
+      - slow or fast heartbeat
+    subsections: []
+  - heading: Rare
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Arm, back, or jaw pain
+      - chest pain or discomfort
+      - chest tightness or heaviness
+      - confusion
+      - dizziness, faintness, or lightheadedness when getting up suddenly from a lying
+        or sitting position
+      - fainting
+      - irregular heartbeat
+      - nausea
+      - shortness of breath
+      - skin rash, hives, and itching
+      - sweating
+    - type: paragraph
+      text: 'Some side effects may occur that usually do not need medical attention.
+        These side effects may go away during treatment as your body adjusts to the
+        medicine. Also, your health care professional may be able to tell you about
+        ways to prevent or reduce some of these side effects. Check with your health
+        care professional if any of the following side effects continue or are bothersome
+        or if you have any questions about them:'
+    subsections: []
+  - heading: More common
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Abdominal or stomach pain
+      - diarrhea
+      - difficulty having a bowel movement (stool)
+      - headache
+      - lack or loss of strength
+      - unusual tiredness or weakness
+      - vomiting
+    subsections: []
+  - heading: Less common
+    level: 3
+    content:
+    - type: list
+      ordered: false
+      items:
+      - Agitation
+      - dizziness
+      - drowsiness
+      - fear
+      - heartburn
+      - indigestion
+      - sleepiness or unusual drowsiness
+      - sour stomach
+      - trouble with sleeping
+      - unusual taste in the mouth
+    - type: paragraph
+      text: Other side effects not listed may also occur in some patients. If you
+        notice any other effects, check with your healthcare professional.
+    - type: paragraph
+      text: Call your doctor for medical advice about side effects. You may report
+        side effects to the FDA at 1-800-FDA-1088.
+    - type: paragraph
+      text: 'Drug information provided by: Merative, Micromedex®'
+    - type: paragraph
+      text: 'Portions of this document last updated: November 01, 2025'
+    - type: paragraph
+      text: 'Copyright: © Merative US L.P. 1973, 2025. All rights reserved. Information
+        is for End User''s use only and may not be sold, redistributed or otherwise
+        used for commercial purposes.'
+    subsections: []
+- heading: Products & Services
+  level: 2
+  content:
+  - type: list
+    ordered: false
+    items:
+    - The Mayo Clinic Diet
+  - type: list
+    ordered: true
+    items:
+    - Drugs & Supplements
+    - Granisetron (intravenous route) - Side effects & uses
+  - type: paragraph
+    text: DRG-20067622
+  subsections: []
